@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\InvadersManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Invader.cs" Line="32" Column="4" />
+      <File FileName="Assets\Scripts\InvadersManager.cs" Line="65" Column="19" />
+      <File FileName="Assets\Scripts\InversionTrigger.cs" Line="27" Column="41" />
+      <File FileName="Assets\Scripts\Ship.cs" Line="12" Column="26" />
+      <File FileName="..\..\Breakout\Assets\Scripts\Ball.cs" Line="1" Column="1" />
+      <File FileName="..\..\Breakout\Assets\Scripts\Bonus.cs" Line="1" Column="1" />
+      <File FileName="..\..\Breakout\Assets\Scripts\Level.cs" Line="37" Column="95" />
+      <File FileName="..\..\Breakout\Assets\Scripts\Player.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
